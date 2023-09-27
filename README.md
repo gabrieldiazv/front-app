@@ -1,4 +1,4 @@
-proyecto hecho en next 13, configurado con MUI y con next.js para authenticacion de usuarios mediante JWT
+proyecto hecho en next 13, configurado con MUI y con next-auth para authenticacion de usuarios mediante JWT
 ## Getting Started
 
 First, run the development server:
